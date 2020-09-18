@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Fangzhou Chen's homepage
 
-You can use the [editor on GitHub](https://github.com/rogerchenfz/rogerchenfz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xiamen University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education Background
+
+Bachelor of Science, Statistics, Xiamen University, 2017-
+NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
