@@ -8,6 +8,10 @@ Bachelor of Science, Statistics, Xiamen University, 2017-
 
 NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
+## Courses
+
+## Project
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
