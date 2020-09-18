@@ -1,5 +1,3 @@
-## Welcome to Fangzhou Chen's homepage
-
 Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xiamen University.
 
 ## Education Background
@@ -10,7 +8,14 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
 ## Courses
 
+[Data Mining](https://github.com/rogerchenfz/statistics-courses/tree/master/Data%20Mining)
+
+[Categorical Data Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Categorical%20Data%20Analysis)
+
+[Nonparametric Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Nonparametric%20Statistics)
+
 ## Project
+
 
 ### Markdown
 
