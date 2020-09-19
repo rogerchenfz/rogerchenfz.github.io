@@ -17,6 +17,7 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 ## Projects
 
 [WISER CLUB 2019-2020 Final](https://github.com/rogerchenfz/WISER-CLUB)
+
 [Wechat Work Python SDK](https://github.com/rogerchenfz/wechatwork-sdk-py)
 
 ### Markdown
