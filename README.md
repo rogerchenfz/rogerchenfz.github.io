@@ -20,6 +20,8 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
 [Wechat Work Python SDK](https://github.com/rogerchenfz/wechatwork-sdk-py)
 
+Note: Sorry, it is not the updated version. I will upload the latest version as soon as possible.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
