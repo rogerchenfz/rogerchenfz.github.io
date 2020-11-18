@@ -1,5 +1,7 @@
 Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xiamen University.
 
+Note: Sorry, it is just a template for early attempt, not the latest version of my homepage. I will upload the latest version as soon as possible.
+
 ## Education Background
 
 Bachelor of Science, Statistics, Xiamen University, 2017-
@@ -19,8 +21,6 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 [WISER CLUB 2019-2020 Final](https://github.com/rogerchenfz/WISER-CLUB)
 
 [Wechat Work Python SDK](https://github.com/rogerchenfz/wechatwork-sdk-py)
-
-Note: Sorry, it is not the updated version. I will upload the latest version as soon as possible.
 
 ### Markdown
 
