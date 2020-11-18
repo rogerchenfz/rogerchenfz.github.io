@@ -1,11 +1,18 @@
+# Note: Sorry, it is just a template for early attempt, not the latest version of my homepage. I will upload the latest version as soon as possible.
+
+## Basic Information
+
 Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xiamen University.
 
-LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
-Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
-bilibili nickname: [cfzAlmighty](https://space.bilibili.com/245965195)
-This page: [https://rogerchenfz.github.io/](https://rogerchenfz.github.io/)
+If you want to know more about me, you can visit the following website.
 
-Note: Sorry, it is just a template for early attempt, not the latest version of my homepage. I will upload the latest version as soon as possible.
+LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
+
+Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
+
+bilibili nickname: [cfzAlmighty](https://space.bilibili.com/245965195)
+
+This page: [https://rogerchenfz.github.io/](https://rogerchenfz.github.io/)
 
 ## Education Background
 
