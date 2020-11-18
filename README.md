@@ -1,4 +1,4 @@
-# Note: Sorry, it is just a template for early attempt, not the latest version of my homepage. I will upload the latest version as soon as possible.
+**Note: Sorry, it is just a template for early attempt, not the latest version of my homepage. I will upload the latest version as soon as possible.**
 
 ## Basic Information
 
