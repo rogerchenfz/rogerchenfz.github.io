@@ -28,7 +28,7 @@ Note: All of the blogs are in Chinese.
 
 [The Growth of An Ordinary Programmer（1-2）](https://zhuanlan.zhihu.com/p/268331645)
 
-[Introduction to the elective course & Physical Education courses of XMU](https://www.zhihu.com/column/c_1217834639357956096)
+[Introduction to the Elective Courses & Physical Education Courses of XMU](https://www.zhihu.com/column/c_1217834639357956096)
 
 ## Projects
 
