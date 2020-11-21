@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/rogerchenfz.github.io)
+
 **Note: Sorry, it is just a template for early attempt, not the latest version of my homepage. The latest version will be uploaded as soon as possible.**
 
 ## Basic Information
@@ -32,7 +34,7 @@ Note: All of the blogs are in Chinese.
 
 ## Projects
 
-[XMU Helper](https://github.com/rogerchenfz/XMU-Helper): A project to help students of XMU in many aspects, especially in study. It contains plenty of files and learning materials. Nearly all the files and materials are in Chinese.
+[XMU Helper](https://github.com/rogerchenfz/XMU-Helper): A project to help students of XMU in many aspects, especially in study. It contains plenty of files, learning materials and useful links. Nearly all the materials are in Chinese.
 
 [WISER CLUB 2019-2020 Final](https://github.com/rogerchenfz/WISER-CLUB): A comprehensive data science project for the Final of WISERCLUB 2019-2020, which is mainly about business analytics and data mining of a new retail specialty coffee operator.
 
