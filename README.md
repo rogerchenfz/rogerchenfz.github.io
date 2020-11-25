@@ -6,11 +6,11 @@
 
 Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xiamen University.
 
-<img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "20" height = "20" alt="email" /> Email: rogerchen@stu.xmu.edu.cn
+<img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "18" height = "18" alt="email" /> Email: rogerchen@stu.xmu.edu.cn
 
 If you want to know more about me, you can visit the following website.
 
- <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-linkedin.5db27b93.png" width = "20" height = "20" alt="LinkedIn" /> LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
+ <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-linkedin.5db27b93.png" width = "16" height = "16" alt="LinkedIn" /> LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
 
 <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png" width = "20" height = "20" alt="Zhihu" /> Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
 
