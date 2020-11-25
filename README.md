@@ -6,19 +6,19 @@
 
 Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xiamen University.
 
-<img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "18" height = "18" alt="email" /> Email: rogerchen@stu.xmu.edu.cn
+<img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "16" height = "16" alt="email" /> Email: rogerchen@stu.xmu.edu.cn
 
 If you want to know more about me, you can visit the following website.
 
  <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-linkedin.5db27b93.png" width = "16" height = "16" alt="LinkedIn" /> LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
 
-<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png" width = "20" height = "20" alt="Zhihu" /> Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
+<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png" width = "16" height = "16" alt="Zhihu" /> Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606287261361&di=913899443d9fa3e470cb9bc0b3ff2642&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-4o3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D6e02d1f14ffbfbeddc0c3e7b4dc0db00%2F6d81800a19d8bc3e85984604868ba61ea9d3456f.jpg" width = "20" height = "20" alt="bilibili" /> bilibili nickname: [cfzAlmighty](https://space.bilibili.com/245965195)
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606287261361&di=913899443d9fa3e470cb9bc0b3ff2642&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-4o3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D6e02d1f14ffbfbeddc0c3e7b4dc0db00%2F6d81800a19d8bc3e85984604868ba61ea9d3456f.jpg" width = "16" height = "16" alt="bilibili" /> bilibili nickname: [cfzAlmighty](https://space.bilibili.com/245965195)
 
-<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-githubb.c8863514.png" width = "20" height = "20" alt="GitHub" /> GitHub: [https://github.com/rogerchenfz/](https://github.com/rogerchenfz/)
+<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-githubb.c8863514.png" width = "16" height = "16" alt="GitHub" /> GitHub: [https://github.com/rogerchenfz/](https://github.com/rogerchenfz/)
 
-<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-default.84b228a7.png" width = "20" height = "20" alt="GitHub" /> This page: [https://rogerchenfz.github.io/](https://rogerchenfz.github.io/)
+<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-default.84b228a7.png" width = "16" height = "16" alt="GitHub" /> This page: [https://rogerchenfz.github.io/](https://rogerchenfz.github.io/)
 
 ## Education Background
 
