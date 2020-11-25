@@ -8,11 +8,11 @@ Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xia
 
 If you want to know more about me, you can visit the following website.
 
- <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-linkedin.5db27b93.png" width = "30" height = "30" alt="LinkedIn" /> LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
+ <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-linkedin.5db27b93.png" width = "20" height = "20" alt="LinkedIn" /> LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
 
-![Zhihu](https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png) Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
+<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png" width = "20" height = "20" alt="Zhihu" /> Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
 
-![GitHub](https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-githubb.c8863514.png) [https://github.com/rogerchenfz/](https://github.com/rogerchenfz/)
+<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-githubb.c8863514.png" width = "20" height = "20" alt="GitHub" /> [https://github.com/rogerchenfz/](https://github.com/rogerchenfz/)
 
 bilibili nickname: [cfzAlmighty](https://space.bilibili.com/245965195)
 
