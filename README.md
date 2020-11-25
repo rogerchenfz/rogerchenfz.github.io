@@ -8,9 +8,9 @@ Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xia
 
 If you want to know more about me, you can visit the following website.
 
-LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
+![LinkedIn](https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-linkedin.5db27b93.png) LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
 
-Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
+![Zhihu](https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png) Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
 
 bilibili nickname: [cfzAlmighty](https://space.bilibili.com/245965195)
 
