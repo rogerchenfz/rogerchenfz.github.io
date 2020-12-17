@@ -22,7 +22,7 @@ If you want to know more about me, you can visit the following website.
 
 ## Education Background
 
-Bachelor of Science, Statistics, Xiamen University, 2017-
+Bachelor of Science in Statistics, Xiamen University, 2017-
 
 NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
