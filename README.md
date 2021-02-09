@@ -22,7 +22,7 @@ If you want to know more about me, you can visit the following website.
 
 ## Education Background
 
-2017-2021 &emsp; Bachelor of Science in Statistics, Xiamen University
+2017-2021 &emsp; Bachelor of Science in Statistics, School of Economics, Xiamen University
 
 - Undergraduate international program in statistics based on advanced statistical theory with data analysis skills and programming skills, and all professional orientation courses are taught in English. (Note: The course materials are not public for the time being.)
 - Statistics Courses: Probability Theory, Mathematical Statistics, Stochastic Process, [Sampling Techniques](https://github.com/rogerchenfz/statistics-courses/tree/master/Sampling%20Techniques), [Computational Methods](https://github.com/rogerchenfz/statistics-courses/tree/master/Computational%20Methods), Operational Research, [Multivariate Statistical Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Multivariate%20Statistical%20Analysis), [Time Series Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Time%20Series%20Analysis), [Bayesian Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Bayesian%20Statistics), Mathematical Modeling, [Data Mining](https://github.com/rogerchenfz/statistics-courses/tree/master/Data%20Mining), [Nonparametric Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Nonparametric%20Statistics), [Categorical Data Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Categorical%20Data%20Analysis)
@@ -63,7 +63,7 @@ July 2018-August 2018 &emsp; Social practice in the summer vacation, Xiamen Univ
 -	A case study of Changxing County, Zhejia Province, researching the coordination of stakeholders in the operation of the River Chief System, analyzing the current situation and carrying out public satisfaction survey.
 
 July 2018-August 2019 &emsp; Social practice in the summer vacation, Xiamen University					   		   
--	Leader of Jiaotashidi Social Practice Team, excellent team of university level and top 10 research reports in School of Economics.
+-	Leader of Jiaotashidi Social Practice Team, excellent team of university level and top 10 research reports.
 -	A case study of Xiamen, Fujian Province, investigation on the current situation of the new reform of college entrance examination in Fujian Province, researching the problem of subject selection of high school students in Fujian Province under the new reform “3+1+2”, analyzing the plan of high school and possible solutions to deal with the new reform.
 
 ### Volunteer
