@@ -22,14 +22,14 @@ If you want to know more about me, you can visit the following website.
 
 ## Education Background
 
-Bachelor of Science in Statistics, Xiamen University, 2017-
+2017-2021 &emsp; Bachelor of Science in Statistics, Xiamen University
 
 - Undergraduate international program in statistics based on advanced statistical theory with data analysis skills and programming skills, and all professional orientation courses are taught in English. (Note: The course materials are not public for the time being.)
 - Statistics Courses: Probability Theory, Mathematical Statistics, Stochastic Process, [Sampling Techniques](https://github.com/rogerchenfz/statistics-courses/tree/master/Sampling%20Techniques), [Computational Methods](https://github.com/rogerchenfz/statistics-courses/tree/master/Computational%20Methods), Operational Research, [Multivariate Statistical Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Multivariate%20Statistical%20Analysis), [Time Series Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Time%20Series%20Analysis), [Bayesian Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Bayesian%20Statistics), Mathematical Modeling, [Data Mining](https://github.com/rogerchenfz/statistics-courses/tree/master/Data%20Mining), [Nonparametric Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Nonparametric%20Statistics), [Categorical Data Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Categorical%20Data%20Analysis)
 - Programming Courses: C Programming, Data Structure and Algorithm Analysis, Statistical Analysis Software, Application of Python Programming, Data Acquisition, Processing and Visualization with Python, Data Processing and Analysis with MATLAB, Design of MySQL database, Foundations of Programming (mobile APP development)
 - Economics Courses: Microeconomics, Macroeconomics, Game Theory, Marketing, Econometrics, Business Communication
 
-NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
+2014-2017 &emsp; NO.1 Middle School Affiliated to Central China Normal University
 
 ## Projects
 
@@ -45,9 +45,11 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 - Finished some business intern tasks, including summarize commodity sales, calculate the retention rate of users, find active users.
 - Predicted users' future purchase behavior with classification algorithms like AdaBoost and XGBoost.
 
-[Wechat Work Python SDK](https://github.com/rogerchenfz/wechatwork-sdk-py): A project using Python to encapsulate the server API of external contact module of WeChat Work and make it into SDK. Meanwhile, API documents are improved and relevant functions are tested. 
+[Wechat Work Python SDK](https://github.com/rogerchenfz/wechatwork-sdk-py)
+- A project using Python to encapsulate the server API of external contact module of WeChat Work and make it into SDK. Meanwhile, API documents are improved and relevant functions are tested. 
 
-[XMU Helper](https://github.com/rogerchenfz/XMU-Helper): A project to help students of XMU in many aspects, especially in study. It contains plenty of files, learning materials and useful links. Nearly all the materials are in Chinese.
+[XMU Helper](https://github.com/rogerchenfz/XMU-Helper)
+- A project to help students of XMU in many aspects, especially in study. It contains plenty of files, learning materials and useful links. Nearly all the materials are in Chinese.
 
 ## Social Activities
 
