@@ -53,14 +53,14 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
 ### Social Practice
 
-Students returning to high school Alma Mater enrollment publicity activity, Xiamen University  		 <html> <body><p align="right">  February 2018  </p></body></html>
+February 2018 &emsp; Students returning to high school Alma Mater enrollment publicity activity, Xiamen University
 - Member of NO.1 Middle School Affiliated to Central China Normal University Team, excellent team (rank 6th out of more than 100 teams)
 
-Social practice in the summer vacation, Xiamen University July 2018-August 2018
+July 2018-August 2018 &emsp; Social practice in the summer vacation, Xiamen University 
 -	Member of Hezhonggongji Social Practice Team, top 10 research reports in School of Economics
 -	A case study of Changxing County, Zhejia Province, researching the coordination of stakeholders in the operation of the River Chief System, analyzing the current situation and carrying out public satisfaction survey.
 
-Social practice in the summer vacation, Xiamen University					   		   July 2018-August 2019
+July 2018-August 2019 &emsp; Social practice in the summer vacation, Xiamen University					   		   
 -	Leader of Jiaotashidi Social Practice Team, excellent team of university level and top 10 research reports in School of Economics.
 -	A case study of Xiamen, Fujian Province, investigation on the current situation of the new reform of college entrance examination in Fujian Province, researching the problem of subject selection of high school students in Fujian Province under the new reform “3+1+2”, analyzing the plan of high school and possible solutions to deal with the new reform.
 
@@ -70,7 +70,7 @@ October 2018 &emsp; Hospitality service, the 4th "Internet Plus" College Student
 - Receiving the competition judges at airport, leading them to the hotel, competition venue and dining hall.
 
 October 2017 and 2019 &emsp; Campus Service Station
-- Hospitality service, campus service station with 19 hours, helping the visitors with answering their questions.
+- Hospitality service, campus service station with 19 hours, helping the visitors and students with answering their questions.
 
 ## Awards and Honors
 - Outstanding Student Cadre of Xiamen University in 2018
