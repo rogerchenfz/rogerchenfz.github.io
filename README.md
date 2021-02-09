@@ -25,7 +25,7 @@ If you want to know more about me, you can visit the following website.
 Bachelor of Science in Statistics, Xiamen University, 2017-
 
 - Undergraduate international program in statistics based on advanced statistical theory with data analysis skills and programming skills, and all professional orientation courses are taught in English. (Note: The course materials are not public for the time being.)
-- Statistics Courses: Probability Theory, Mathematical Statistics, Stochastic Process, Sampling Techniques, Computational Methods, Operational Research, Multivariate Statistical Analysis, Time Series Analysis, Bayesian Statistics, Mathematical Modeling, [Data Mining](https://github.com/rogerchenfz/statistics-courses/tree/master/Data%20Mining), [Nonparametric Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Nonparametric%20Statistics), [Categorical Data Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Categorical%20Data%20Analysis)
+- Statistics Courses: Probability Theory, Mathematical Statistics, Stochastic Process, [Sampling Techniques](https://github.com/rogerchenfz/statistics-courses/tree/master/Sampling%20Techniques), [Computational Methods](https://github.com/rogerchenfz/statistics-courses/tree/master/Computational%20Methods), Operational Research, [Multivariate Statistical Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Multivariate%20Statistical%20Analysis), [Time Series Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Time%20Series%20Analysis), [Bayesian Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Bayesian%20Statistics), Mathematical Modeling, [Data Mining](https://github.com/rogerchenfz/statistics-courses/tree/master/Data%20Mining), [Nonparametric Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Nonparametric%20Statistics), [Categorical Data Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Categorical%20Data%20Analysis)
 - Programming Courses: C Programming, Data Structure and Algorithm Analysis, Statistical Analysis Software, Application of Python Programming, Data Acquisition, Processing and Visualization with Python, Data Processing and Analysis with MATLAB, Design of MySQL database, Foundations of Programming (mobile APP development)
 - Economics Courses: Microeconomics, Macroeconomics, Game Theory, Marketing, Econometrics, Business Communication
 
@@ -39,8 +39,6 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 - Studied the factors affecting salary and established multiple linear regression model and log linear regression model.
 - Improved the salary prediction model by using random forest model.
 
-[XMU Helper](https://github.com/rogerchenfz/XMU-Helper): A project to help students of XMU in many aspects, especially in study. It contains plenty of files, learning materials and useful links. Nearly all the materials are in Chinese.
-
 [User Purchasing Analysis of Luckin Coffee](https://github.com/rogerchenfz/WISER-CLUB)
 - A comprehensive data science project for the Final of WISERCLUB 2019-2020, which is mainly about business analytics and data mining of a new retail specialty coffee operator.
 - Conducted exploring data analysis for more than 2.35 million orders and 0.46 million users with Python and SQL.
@@ -49,6 +47,8 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
 [Wechat Work Python SDK](https://github.com/rogerchenfz/wechatwork-sdk-py): A project using Python to encapsulate the server API of external contact module of WeChat Work and make it into SDK. Meanwhile, API documents are improved and relevant functions are tested. 
 
+[XMU Helper](https://github.com/rogerchenfz/XMU-Helper): A project to help students of XMU in many aspects, especially in study. It contains plenty of files, learning materials and useful links. Nearly all the materials are in Chinese.
+
 ## Social Activities
 
 ### Social Practice
@@ -56,7 +56,7 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 Students returning to high school Alma Mater enrollment publicity activity, Xiamen University  		  February 2018
 - Member of NO.1 Middle School Affiliated to Central China Normal University Team, excellent team (rank 6th out of more than 100 teams)
 
-Social practice in the summer vacation, Xiamen University					   		   July 2018-August 2018
+Social practice in the summer vacation, Xiamen University July 2018-August 2018
 -	Member of Hezhonggongji Social Practice Team, top 10 research reports in School of Economics
 -	A case study of Changxing County, Zhejia Province, researching the coordination of stakeholders in the operation of the River Chief System, analyzing the current situation and carrying out public satisfaction survey.
 
@@ -66,10 +66,11 @@ Social practice in the summer vacation, Xiamen University					   		   July 2018-
 
 ### Volunteer
 
-Hospitality service, the 4th "Internet Plus" College Student Innovation and Entrepreneurship Competition of China, Xiamen 																  October 2018
+October 2018 &emsp; Hospitality service, the 4th "Internet Plus" College Student Innovation and Entrepreneurship Competition of China, Xiamen
 - Receiving the competition judges at airport, leading them to the hotel, competition venue and dining hall.
 
-Hospitality service, campus service station with 19 hours, helping the visitors with answering their questions.
+October 2017 and 2019 &emsp; Campus Service Station
+- Hospitality service, campus service station with 19 hours, helping the visitors with answering their questions.
 
 ## Awards and Honors
 - Outstanding Student Cadre of Xiamen University in 2018
