@@ -53,7 +53,7 @@ NO.1 Middle School Affiliated to Central China Normal University, 2014-2017
 
 ### Social Practice
 
-Students returning to high school Alma Mater enrollment publicity activity, Xiamen University  		  February 2018
+Students returning to high school Alma Mater enrollment publicity activity, Xiamen University  		  <div style="text-align:right;width:12px;background:#def;">  February 2018  </div>
 - Member of NO.1 Middle School Affiliated to Central China Normal University Team, excellent team (rank 6th out of more than 100 teams)
 
 Social practice in the summer vacation, Xiamen University July 2018-August 2018
