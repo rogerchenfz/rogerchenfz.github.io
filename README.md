@@ -4,9 +4,9 @@
 
 ## Basic Information
 
-Fangzhou Chen, a senior student majoring in statistics, School of Economics, Xiamen University.
+Fangzhou Chen,  a first-year student of Master of Science in Data Science Programme, School of Data Science, The Chinese University of Hong Kong, Shenzhen.
 
-<img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "16" height = "16" alt="email" /> Email: rogerchen@stu.xmu.edu.cn
+<img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "16" height = "16" alt="email" /> Email: rogerchenfz@163.com
 
 If you want to know more about me, you can visit the following website.
 
@@ -21,6 +21,11 @@ If you want to know more about me, you can visit the following website.
 <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-default.84b228a7.png" width = "16" height = "16" alt="GitHub" /> This page: [https://rogerchenfz.github.io/](https://rogerchenfz.github.io/)
 
 ## Education Background
+
+2021-Present &emsp; Master of Science in Data Science, School of Data Science, The Chinese University of Hong Kong, Shenzhen
+
+- [The 18th in the world and the 2nd in the Asia-Pacific region in 2021-2022 Master of Data Science Global Ranking](https://mscds.cuhk.edu.cn/en/nshow-2343.html)
+- [Courses](https://mscds.cuhk.edu.cn/en/a-218.html): Python Programming, Theory of Statistics, Database Principles and Development, Fintech Theory and Practice, Introduction to Optimization, Big Data Modeling and Management, Analysis of Algorithms, Time Series Analysis, Machine Learning, Data Mining, Deep Learning and Their Applications, Web Analytics
 
 2017-2021 &emsp; Bachelor of Science in Statistics, School of Economics, Xiamen University
 
