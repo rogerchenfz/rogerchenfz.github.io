@@ -1,42 +1,51 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogerchenfz/rogerchenfz.github.io)
 
-**Note: Sorry, it is just a template for early attempt, not the latest version of my homepage. The latest version will be uploaded as soon as possible.**
+**更新中**
 
-## Basic Information
-
-Fangzhou Chen,  a first-year student of Master of Science in Data Science Programme, School of Data Science, The Chinese University of Hong Kong, Shenzhen.
+## 基本信息
+陈方舟,  香港中文大学（深圳）数据科学学院数据科学理学硕士。
 
 <img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "16" height = "16" alt="email" /> Email: rogerchenfz@163.com
 
-If you want to know more about me, you can visit the following website.
+如果你想了解更多关于我的信息，你可以访问以下网站。
 
  <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-linkedin.5db27b93.png" width = "16" height = "16" alt="LinkedIn" /> LinkedIn: [https://www.linkedin.com/in/rogerchenfz/](https://www.linkedin.com/in/rogerchenfz/)
 
-<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png" width = "16" height = "16" alt="Zhihu" /> Zhihu username: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
+<img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-zhihu.8766bfd1.png" width = "16" height = "16" alt="Zhihu" /> 知乎: [cfzAlmighty](https://www.zhihu.com/people/cfzalmighty)
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606287261361&di=913899443d9fa3e470cb9bc0b3ff2642&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-4o3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D6e02d1f14ffbfbeddc0c3e7b4dc0db00%2F6d81800a19d8bc3e85984604868ba61ea9d3456f.jpg" width = "16" height = "16" alt="bilibili" /> bilibili nickname: [cfzAlmighty](https://space.bilibili.com/245965195)
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606287261361&di=913899443d9fa3e470cb9bc0b3ff2642&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-4o3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D6e02d1f14ffbfbeddc0c3e7b4dc0db00%2F6d81800a19d8bc3e85984604868ba61ea9d3456f.jpg" width = "16" height = "16" alt="bilibili" /> bilibili: [cfzAlmighty](https://space.bilibili.com/245965195)
 
 <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-githubb.c8863514.png" width = "16" height = "16" alt="GitHub" /> GitHub: [https://github.com/rogerchenfz/](https://github.com/rogerchenfz/)
 
 <img src="https://static.zhipin.com/zhipin-geek/v334/web/geek-vue/static/images/icon-sns-default.84b228a7.png" width = "16" height = "16" alt="GitHub" /> This page: [https://rogerchenfz.github.io/](https://rogerchenfz.github.io/)
 
-## Education Background
+## 教育背景
 
-2021-Present &emsp; Master of Science in Data Science, School of Data Science, The Chinese University of Hong Kong, Shenzhen
+2021-2023 &emsp; 香港中文大学（深圳）数据科学学院
 
 - [The 18th in the world and the 2nd in the Asia-Pacific region in 2021-2022 Master of Data Science Global Ranking](https://mscds.cuhk.edu.cn/en/nshow-2343.html)
 - [Courses](https://mscds.cuhk.edu.cn/en/a-218.html): Python Programming, Theory of Statistics, Database Principles and Development, Fintech Theory and Practice, Introduction to Optimization, Big Data Modeling and Management, Analysis of Algorithms, Time Series Analysis, Machine Learning, Data Mining, Deep Learning and Their Applications, Web Analytics
 
-2017-2021 &emsp; Bachelor of Science in Statistics, School of Economics, Xiamen University
+2017-2021 &emsp; 厦门大学 经济学院 统计学 理学学士
 
-- Undergraduate international program in statistics based on advanced statistical theory with data analysis skills and programming skills, and all professional orientation courses are taught in English. (Note: The course materials are not public for the time being.)
-- Statistics Courses: Probability Theory, Mathematical Statistics, Stochastic Process, [Sampling Techniques](https://github.com/rogerchenfz/statistics-courses/tree/master/Sampling%20Techniques), [Computational Methods](https://github.com/rogerchenfz/statistics-courses/tree/master/Computational%20Methods), Operational Research, [Multivariate Statistical Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Multivariate%20Statistical%20Analysis), [Time Series Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Time%20Series%20Analysis), [Bayesian Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Bayesian%20Statistics), Mathematical Modeling, [Data Mining](https://github.com/rogerchenfz/statistics-courses/tree/master/Data%20Mining), [Nonparametric Statistics](https://github.com/rogerchenfz/statistics-courses/tree/master/Nonparametric%20Statistics), [Categorical Data Analysis](https://github.com/rogerchenfz/statistics-courses/tree/master/Categorical%20Data%20Analysis)
-- Programming Courses: C Programming, Data Structure and Algorithm Analysis, Statistical Analysis Software, Application of Python Programming, Data Acquisition, Processing and Visualization with Python, Data Processing and Analysis with MATLAB, Design of MySQL database, Foundations of Programming (mobile APP development)
-- Economics Courses: Microeconomics, Macroeconomics, Game Theory, Marketing, Econometrics, Business Communication
+- 本科生国际化试验班项目，基于先进的统计学理论和数据分析技巧和编程技能，所有专业课程采用英文教学。
+- 统计: 概率导论, 数理统计, 随机过程, 抽样技术, 计算方法, 运筹学, 多元统计分析, 时间序列分析, 贝叶斯统计, 数学建模, 数据挖掘, 非参数统计, 属性数据分析
+- 编程：C语言程序设计, Python程序设计, 数据结构和算法分析, 数据库系统, Python编程应用, Python数据获取、处理和可视化, MATLAB数据处理与分析, MySQL数据库设计, 编程基础 (移动APP开发), Linux基础教程
+- 经济: 微观经济学, 宏观经济学, 博弈论基础, 市场营销学, 计量经济学, 商务沟通与文化交流
 
-2014-2017 &emsp; NO.1 Middle School Affiliated to Central China Normal University
+2014-2017 &emsp; 华中师范大学第一附属中学
 
-## Projects
+## 工作经历
+
+2023.06-2023.09 &emsp; 阿里巴巴, 数据科学家 (实习)
+
+2022.11-2023.01 &emsp; 货拉拉, 数据挖掘工程师 (实习)
+
+2022.06-2022.10 &emsp; 顺丰科技, 大数据挖掘与分析工程师 (实习)
+
+2022.01-2022.05 &emsp; 香港中文大学（深圳）, 教学助理 (兼职)
+
+## 项目经历
 
 [Data-Related Jobs Analysis of Online Recruitment](https://github.com/rogerchenfz/lagou-job-data-analysis)
 - Collected more than 2000 data-related jobs on recruitment websites by the crawler and stored it in MySQL database.
