@@ -3,7 +3,7 @@
 **更新中**
 
 ## 基本信息
-陈方舟,  香港中文大学（深圳）数据科学学院数据科学理学硕士。
+陈方舟，厦门大学经济学院统计学理学学士，香港中文大学（深圳）数据科学学院数据科学理学硕士。
 
 <img src="http://blog.soomla.com/wp-content/uploads/2015/11/email-2-icon.png" width = "16" height = "16" alt="email" /> Email: rogerchenfz@163.com
 
@@ -21,10 +21,10 @@
 
 ## 教育背景
 
-2021-2023 &emsp; 香港中文大学（深圳）数据科学学院
+2021-2023 &emsp; 香港中文大学（深圳） 数据科学学院 数据科学 理学硕士
 
-- [The 18th in the world and the 2nd in the Asia-Pacific region in 2021-2022 Master of Data Science Global Ranking](https://mscds.cuhk.edu.cn/en/nshow-2343.html)
-- [Courses](https://mscds.cuhk.edu.cn/en/a-218.html): Python Programming, Theory of Statistics, Database Principles and Development, Fintech Theory and Practice, Introduction to Optimization, Big Data Modeling and Management, Analysis of Algorithms, Time Series Analysis, Machine Learning, Data Mining, Deep Learning and Their Applications, Web Analytics
+- [2021-2022数据科学硕士全球排名全球第18名，亚太第2名](https://mscds.cuhk.edu.cn/nshow-2297.html)
+- [课程](https://mscds.cuhk.edu.cn/a-161.html): Python编程, 统计学理论, 数据库原理与开发, 金融科技理论与实践, 最优化导论, 大数据建模与管理, 算法分析, 时间序列分析, 机器学习, 数据挖掘, 深度学习及其应用, 网络分析，云计算，人工智能，数据可视化，自然语言处理，金融市场的文本分析
 
 2017-2021 &emsp; 厦门大学 经济学院 统计学 理学学士
 
@@ -65,78 +65,44 @@
 [XMU Helper](https://github.com/rogerchenfz/XMU-Helper)
 - A project to help students of XMU in many aspects, especially in study. It contains plenty of files, learning materials and useful links. Nearly all the materials are in Chinese.
 
-## Social Activities
+## 社会活动
 
-### Social Practice
+### 社会实践
 
-February 2018 &emsp; Students returning to high school Alma Mater enrollment publicity activity, Xiamen University
-- Member of NO.1 Middle School Affiliated to Central China Normal University Team, excellent team (rank 6th out of more than 100 teams)
+2020.05-2020.09 &emsp; 厦门大学暑期社会实践（新高考改革后选课状况与对策的调查研究——基于河北、山东、浙江、福建四省数据）   		
+- 厦门大学经济学院教学相长实践队成员，实践队荣获校级优秀团队、优秀调研报告，院级优秀团队
 
-July 2018-August 2018 &emsp; Social practice in the summer vacation, Xiamen University 
--	Member of Hezhonggongji Social Practice Team, top 10 research reports in School of Economics
--	A case study of Changxing County, Zhejia Province, researching the coordination of stakeholders in the operation of the River Chief System, analyzing the current situation and carrying out public satisfaction survey.
-
-July 2018-August 2019 &emsp; Social practice in the summer vacation, Xiamen University					   		   
--	Leader of Jiaotashidi Social Practice Team, excellent team of university level and top 10 research reports.
+2019.06-2019.08 &emsp; 厦门大学暑期社会实践（福建省新高考改革现状调查——以厦门市为例）  		   
+-	教踏实地实践队队长，实践队荣获校级重点团队和优秀团队，个人荣获校级实践积极分子
 -	A case study of Xiamen, Fujian Province, investigation on the current situation of the new reform of college entrance examination in Fujian Province, researching the problem of subject selection of high school students in Fujian Province under the new reform “3+1+2”, analyzing the plan of high school and possible solutions to deal with the new reform.
 
-### Volunteer
+2018.07-2018.08 &emsp; 厦门大学暑期社会实践（探究河长制运行中利益相关方的协调问题——以浙江长兴县为例）
+-	厦门大学河衷共济实践队成员, 经济学院十佳调研报告
+-	A case study of Changxing County, Zhejia Province, researching the coordination of stakeholders in the operation of the River Chief System, analyzing the current situation and carrying out public satisfaction survey.
 
-October 2018 &emsp; Hospitality service, the 4th "Internet Plus" College Student Innovation and Entrepreneurship Competition of China, Xiamen
+2018.02 &emsp; 厦门大学寒假学生返高中母校招生宣传活动
+- 赴湖北省华中师大一附中招生宣传实践队成员, 负责返校宣讲的摆摊咨询和答疑、班级内宣传手册的发放，团队荣获优秀团队（6/391）。
+
+### 志愿者
+
+2018.10 &emsp; 第四届“互联网+”大学生创新创业大赛优秀志愿者
 - Receiving the competition judges at airport, leading them to the hotel, competition venue and dining hall.
 
-October 2017 and 2019 &emsp; Campus Service Station
+2017.10, 2019.10 &emsp; 校园服务站
 - Hospitality service, campus service station with 19 hours, helping the visitors and students with answering their questions.
 
-## Awards and Honors
-- Outstanding Student Cadre of Xiamen University in 2018
-- Outstanding Volunteer of the 4th "Internet Plus" College Student Innovation and Entrepreneurship Competition of China in 2018
-- Outstanding Activist of summer social practice of Xiamen University in 2019
-- Second Prize in Chinese Mathematics Competition in 2018 and 2019
-- First Prize in China Undergraduate Mathematical Contest in Modeling in 2019
-- Gold Medal of Men's 4×400 Metres Relay in Student Track and Field Games of Xiamen University in 2020
+## 荣誉奖项
+- 厦门大学校级优秀学生干部 (2018, 2021)
+- 第四届“互联网+”大学生创新创业大赛优秀志愿者 (2018)
+- 厦门大学暑期社会实践活动积极分子 (2019)
+- 全国大学生数学竞赛（非数学类）福建赛区二等奖 (2018, 2019)
+- 全国大学生数学建模竞赛福建赛区一等奖 (2019)、二等奖 (2020)
+- 厦门大学学生田径运动会男子4×400米接力金牌 (2020)
 
-## Blogs
+## 博客专栏
 
-Note: All of the blogs are in Chinese.
+[一个普通程序员的成长之路]((https://www.zhihu.com/column/c_1435709551249530880))
 
-[An Introduction to Markdown](https://zhuanlan.zhihu.com/p/261016461)
-
-[The Growth of An Ordinary Programmer（1-2）](https://zhuanlan.zhihu.com/p/268331645)
-
-[Introduction to the Elective Courses & Physical Education Courses of XMU](https://www.zhihu.com/column/c_1217834639357956096)
+[厦门大学全校性选修课&体育课介绍](https://www.zhihu.com/column/c_1217834639357956096)
 
 ------
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rogerchenfz/rogerchenfz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
