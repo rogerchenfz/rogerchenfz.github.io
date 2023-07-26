@@ -39,8 +39,11 @@ If you want to know more about me, you can visit the following website.
 ## Work Experiences
 
 2023.06-2023.09 &emsp; Alibaba, Data Scientist (Intern)
+
 2022.11-2023.01 &emsp; Huolala, Data Mining Engineer (Intern)
+
 2022.06-2022.10 &emsp; SF Technology, Big Data Mining and Analysis Engineer (Intern)
+
 2022.01-2022.05 &emsp; The Chinese University of Hong Kong, Shenzhen, Teaching Assistant (part-time)
 
 ## Projects
@@ -68,7 +71,7 @@ If you want to know more about me, you can visit the following website.
 ### Social Practice
 
 February 2018 &emsp; Students returning to high school Alma Mater enrollment publicity activity, Xiamen University
-- Member of NO.1 Middle School Affiliated to Central China Normal University Team, excellent team (rank 6th out of more than 100 teams)
+- Member of NO.1 Middle School Affiliated to Central China Normal University Team, excellent team (rank 6th out of 391 teams)
 
 July 2018-August 2018 &emsp; Social practice in the summer vacation, Xiamen University 
 -	Member of Hezhonggongji Social Practice Team, top 10 research reports in School of Economics
@@ -98,9 +101,7 @@ October 2017 and 2019 &emsp; Campus Service Station
 
 Note: All of the blogs are in Chinese.
 
-[An Introduction to Markdown](https://zhuanlan.zhihu.com/p/261016461)
-
-[The Growth of An Ordinary Programmer（1-2）](https://zhuanlan.zhihu.com/p/268331645)
+[The Growth of An Ordinary Programmer](https://www.zhihu.com/column/c_1435709551249530880)
 
 [Introduction to the Elective Courses & Physical Education Courses of XMU](https://www.zhihu.com/column/c_1217834639357956096)
 
